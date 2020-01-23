@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Juber123:Juber123@devconnector-hc42t.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret-token-to-be-used"
+}
